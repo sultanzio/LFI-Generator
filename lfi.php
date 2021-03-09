@@ -3,7 +3,7 @@
 function main()
 {
     print "=====================================\n";
-    print "====  Local File Incluion (LFI)  ====\n";
+    print "====  Local File Inclusion (LFI) ====\n";
     print "====      G E N E R A T O R      ====\n";
     print "=====================================\n";
     print "Coded By ./BagusLinduPamungkas       \n";
