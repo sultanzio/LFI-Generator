@@ -1,6 +1,5 @@
 <?php
 
-system(clear);
 function main()
 {
     print "=====================================\n";
