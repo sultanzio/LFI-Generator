@@ -18,7 +18,7 @@ function main()
 
     switch ($pilihOS) {
         case '1':
-        system(clear);
+        
             $link = readline("[+] Site : ");
             $pathStr = ["",
                 "c:/boot.ini",
@@ -117,7 +117,7 @@ function main()
             }
             break;
         case '2':
-        system(clear);
+        
             /*/etc/issue
         /etc/passwd
         /etc/shadow
@@ -261,7 +261,7 @@ function main()
             break;
 
         case '3':
-        system(clear);
+        
             $pathStr = [
                 "",
                 "\..",
